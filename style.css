@@ -18,30 +18,7 @@ img {
 /*CUENTA REGRESIVA*/
 
 @media (max-width: 730px) {
-.uno{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 24px;
-  color: #414141;
-  font-weight: 550;
-  margin-top: -10%;
-}
-.dos{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 24px;
-  color: #414141;
-  font-weight: 550;
-  margin-top: -10%;
-}
-.tres{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 24px;
-  color: #414141;
-  font-weight: 550;
-  margin-top: -10%;
-}
+
 .cuatro{
   text-align: center;
   font-family: 'Dancing Script', cursive; 
@@ -168,7 +145,7 @@ margin-top: -17%;
   color: #414141;
   font-weight: 550;
   margin-top: 5%;
-  text-align: justify;
+  text-align: center;
   margin: 10%;
 }
 
@@ -187,8 +164,8 @@ margin-top: -17%;
   color: #414141;
   font-weight: 550;
   margin-top: 3%;
-  text-align: justify;
   margin: 10%;
+  text-align: center;
 }
 
 .parrafo8{
@@ -205,7 +182,7 @@ margin-top: -17%;
     color: #414141;
     font-weight: 550;
     margin-top: 5%;
-    text-align: justify;
+    text-align: center;
     margin: 10%;
 }
 .parrafo10{
@@ -222,7 +199,7 @@ margin-top: -17%;
     color: #414141;
     font-weight: 550;
     margin-top: 5%;
-    text-align: justify;
+    text-align: center;
     margin: 10%;
   
 }
@@ -667,7 +644,7 @@ font-size: 30px;
 color: #414141;
 font-weight: 550;
 margin-top: 5%;
-text-align: justify;
+text-align: center;
 margin: 10%;
 }
 
@@ -686,7 +663,7 @@ font-size: 30px;
 color: #414141;
 font-weight: 550;
 margin-top: 3%;
-text-align: justify;
+text-align: center;
 margin: 10%;
 }
 
@@ -704,7 +681,7 @@ margin-top: 25%;
   color: #414141;
   font-weight: 550;
   margin-top: 5%;
-  text-align: justify;
+  text-align: center;
   margin: 10%;
 }
 .parrafo10{
@@ -721,7 +698,7 @@ margin-top: 25%;
   color: #414141;
   font-weight: 550;
   margin-top: 5%;
-  text-align: justify;
+  text-align: center;
   margin: 10%;
 
 }
@@ -875,38 +852,6 @@ margin-top: 10%;
 margin-left: 29%;
 background-size: 80%;
 width: 75%;
-}
-.uno{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 28px;
-  color: #414141;
-  font-weight: 550;
-  margin-top: -10%;
-}
-.dos{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 28px;
-  color: #414141;
-  font-weight: 550;
-  margin-top: -10%;
-}
-.tres{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 28px;
-  color: #414141;
-  font-weight: 550;
-  margin-top: -10%;
-}
-.cuatro{
-  text-align: center;
-  font-family: 'Dancing Script', cursive; 
-  font-size: 28px;
-  color: #414141;
-  font-weight: 550;
-  margin-top: -10%;
 }
 
 
